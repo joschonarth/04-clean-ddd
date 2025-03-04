@@ -16,6 +16,7 @@
     "vitest": "^3.0.7"
   },
   "dependencies": {
-    "04-clean-ddd": "file:"
+    "04-clean-ddd": "file:",
+    "dayjs": "^1.11.13"
   }
 }
