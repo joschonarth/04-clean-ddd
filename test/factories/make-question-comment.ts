@@ -10,7 +10,7 @@ export function makeQuestionComment(
   override: Partial<QuestionCommentProps> = {},
   id?: UniqueEntityID,
 ) {
-  const questionCommet = QuestionComment.create(
+  const questionComment = QuestionComment.create(
     {
       authorId: new UniqueEntityID(),
       questionId: new UniqueEntityID(),
@@ -20,5 +20,5 @@ export function makeQuestionComment(
     id,
   )
 
-  return questionCommet
+  return questionComment
 }
