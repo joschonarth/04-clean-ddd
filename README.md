@@ -45,7 +45,7 @@ A modelagem segue os fundamentos do **DDD**, com foco em refletir com fidelidade
 - 🧩 **Domain-Driven Design (DDD)**: Foco no domínio de negócio como núcleo da aplicação.
 - 🛡️ **Clean Architecture**: Separação de responsabilidades e independência de frameworks.
 - 🧱 **Entidades e Value Objects**: Organização robusta de dados e comportamentos.
-- 🧩 **Repositórios como Contratos**: Persistência desacoplada e flexível.
+- 📂 **Repositórios como Contratos**: Persistência desacoplada e flexível.
 - 🧹 **SOLID**: Aplicação de princípios para alta manutenibilidade e extensibilidade.
 - 🧪 **TDD (Test-Driven Development)**: Desenvolvimento orientado a testes desde o início.
 - 🔄 **In-Memory Repository**: Repositório volátil usado para testes e simulações sem dependência externa.
