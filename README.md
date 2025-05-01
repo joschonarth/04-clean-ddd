@@ -1,4 +1,4 @@
-<h1 align="center">🧩 Nest Clean Domain</h1>
+<h1 align="center">🧩 Camada de Domínio com Clean Architecture e DDD</h1>
 
 <p align="center"><i>Camada de <b>Domínio</b> independente e desacoplada, desenvolvida seguindo os princípios do <b>Domain-Driven Design</b> e da <b>Clean Architecture</b>, para modelar regras de negócio de forma clara, consistente e reutilizável.</i></p>
 
@@ -61,7 +61,7 @@ A modelagem segue os fundamentos do **DDD**, com foco em refletir com fidelidade
 A estrutura do projeto está organizada com foco em **modularidade**, **separação de responsabilidades** e adesão à **Clean Architecture**. A seguir, um panorama das principais pastas e seus propósitos:
 
 ```plaintext
-nest-clean-domain/
+node-clean-domain/
 ├── src/
 │   ├── core/                          # Camada genérica e compartilhada entre os domínios
 │   │   ├── entities/                  # Entidades base como AggregateRoot e WatchedList
