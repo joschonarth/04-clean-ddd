@@ -1,4 +1,4 @@
-<h1 align="center">🧩 Camada de Domínio com Clean Architecture e DDD</h1>
+<h1 align="center">🧩 Camada de Domínio com DDD e Clean Architecture</h1>
 
 <p align="center"><i>Camada de <b>Domínio</b> independente e desacoplada, desenvolvida seguindo os princípios do <b>Domain-Driven Design</b> e da <b>Clean Architecture</b>, para modelar regras de negócio de forma clara, consistente e reutilizável.</i></p>
 
